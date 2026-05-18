@@ -1,0 +1,21 @@
+.omc
+.DS_Store
+.DS_Store/
+
+# Xcode
+build/
+DerivedData/
+*.xcuserdata
+*.xcworkspace
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# SwiftPM
+.build/
+Packages/
+
+# macOS
+.Trashes
+*.swp
+*~
