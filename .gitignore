@@ -19,3 +19,13 @@ Packages/
 .Trashes
 *.swp
 *~
+
+# Flutter
+capture_manager_flutter/build/
+capture_manager_flutter/.dart_tool/
+capture_manager_flutter/.flutter-plugins
+capture_manager_flutter/.flutter-plugins-dependencies
+capture_manager_flutter/*.iml
+capture_manager_flutter/.idea/
+capture_manager_flutter/lib/**/*.g.dart
+capture_manager_flutter/lib/**/*.freezed.dart
